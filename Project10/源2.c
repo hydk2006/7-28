@@ -1,0 +1,1 @@
+#define CURE_NO_WARNINGS 1
